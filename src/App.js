@@ -1,11 +1,12 @@
 import './App.css';
+import Home from './campanents/Home/Home';
 
 function App() {
   return (
     <div className="App">
-      <h1>salom kursdoshlar</h1>
-      <h1>salom kursdoshlar</h1>
-      <h1>salom kursdoshlar</h1>
+    
+      <Home/>
+      
     </div>
   );
 }
